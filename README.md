@@ -8,5 +8,5 @@ The project includes:
 - Functional Test Cases
 - Defect Reports and Logs
 - Release and Usability Reports
-- Bulk Import CSV for Jira
+- Regression strategy
 - Traceability evidence between User Stories, Test Cases, and Defects
