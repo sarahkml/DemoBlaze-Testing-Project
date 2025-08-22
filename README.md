@@ -1,5 +1,5 @@
 # DemoBlaze-Testing-Project
-Software Testing project for the DemoBlaze web application. Includes test scenarios, functional test cases, defect logs, reports, and Jira traceability.
+Software Testing project for the DemoBlaze web application(https://demoblaze.com/index.html). Includes test scenarios, functional test cases, defect logs, reports, and Jira traceability.
 
 This repository contains the deliverables for a software testing project based on the DemoBlaze web application.  
 The project includes:
